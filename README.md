@@ -1,8 +1,14 @@
+## ✋ Hi! My Name is [RP 👈](https://rpzubieto.dev/#/) And I A Full Stack/Web/Software/Reports Developer
+
+[![Github](https://github.com/aleen42/badges/raw/master/src/github.svg)](https://github.com/RPCodebase) 
+
 - 👋 Hi, I’m @RP
-- 👀 I’m interested in all things web, internet, technology, computers, gadgets, dogs, travel
-- 🌱 I’m currently learning C#, RUBY on RAILS, AZURE and DEVOPS, BlockChain
+-  🗺 Currently based in Manila, Philippines.
+- 👀 I’m interested in all things web, business intelligence, internet, technology, computers, gadgets, dogs, travel
+- 💻 My technical experiences are mostly related to HCL Domino, Web, Cognos, PowerBI, HTML, PHP and 🌱 I’m currently learning RUBY on RAILS, AZURE, DEVOPS, BlockChain Tech
+-  💾 Database `MySQL`,`MongoDB`,`FireBase`, `Oracle`, `HCL Domino`
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 How to reach me at Twitter 
 
 <details>
 <summary> 👔 About Me</summary>
