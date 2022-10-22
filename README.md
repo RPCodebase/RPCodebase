@@ -5,7 +5,7 @@
 - 👋 Hi, I’m @RP
 -  🗺 Currently based in Manila, Philippines.
 - 👀 I’m interested in all things web, business intelligence, internet, technology, computers, gadgets, dogs, travel
-- 💻 My technical experiences are mostly related to HCL Domino, Web, Cognos, PowerBI, HTML, PHP and 🌱 I’m currently learning RUBY on RAILS, AZURE, DEVOPS, BlockChain Tech
+- 💻 My technical experiences are mostly related to HCL Domino, Web, Cognos, PowerBI, HTML, PHP, XPAGES, Java, Node.js, REACT.js, and 🌱 I’m currently exploring projects related to RUBY on RAILS, AZURE, AWS, DEVOPS, BlockChain Tech
 -  💾 Database `MySQL`,`MongoDB`,`FireBase`, `Oracle`, `HCL Domino`
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me at Twitter 
@@ -13,9 +13,9 @@
 <details>
 <summary> 👔 About Me</summary>
 
-My name is RP. I’m a senior developer with a full-stack background on several technologies. I hope to share some of my professional and personal projects in this repository. 
+My name is RP. I’m a senior developer with a full-stack background. I hope to share some of my professional and personal projects in this repository. 
 
-Over the past 20 years, I’ve gained experience across some aspects of the application lifecycle, including frontend, backend, and dev-ops. It allows me to take full ownership of a project from design to implementation and deployment.
+Over the past several years, I’ve been exposed to several technologies including  frontend, backend, and dev-ops. I've been involved in all stages of application development lifestycle from initiation to implementation and maintenance.
 </details>
 
 <details>
