@@ -5,7 +5,7 @@
 - 👋 Hi, I’m @RP
 -  🗺 Currently based in Manila, Philippines.
 - 👀 I’m interested in all things web, business intelligence, internet, technology, computers, gadgets, dogs, travel
-- 💻 My technical experiences spans across multiple technologies including Java, Python, Node.js, React.js, Vue.js, Angular.js, TailwindCss, HCL Domino, Web, Cognos PowerBI, HTML, PHP, XPAGES, Laravel, MERN, JamStack and 🌱 I’m currently exploring projects related to C#, PowerPages, AZURE, AWS, DEVOPS, BlockChain, Cryptocurrencies, Machine Learning, Ruby on Rails, Golang
+- 💻 My technical experiences span across multiple technologies including Java, Python, Node.js, React.js, Vue.js, Angular.js, TailwindCss, HCL Domino, Web, Cognos PowerBI, HTML, PHP, XPAGES, Laravel, MERN, JamStack and 🌱 I’m currently exploring projects related to C#, PowerPages, AZURE, AWS, DEVOPS, BlockChain, Cryptocurrencies, Machine Learning, Ruby on Rails, Golang, Ruby
 -  💾 Database `MySQL`,`MongoDB`,`FireBase`, `Oracle`, `HCL Domino`
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me at Twitter 
